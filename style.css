@@ -1,0 +1,104 @@
+*{
+	padding: 0;
+	margin: 0;
+	user-select: none;
+}
+
+
+
+.shapka{
+	width: 100%;
+	height: 400px;
+	background: url(kartinki/b4.jpg);
+	background-size: cover;
+	color: white;
+	font-size: 5px;
+	position: absolute;
+
+}
+
+
+.h1b{
+	position: relative;
+	margin: 100px auto;
+	font-size: 100px;
+	font-family: fantasy ;
+	left: 35%;
+
+}
+
+	
+
+.b1{
+	color: black;
+	height: 400px;
+	width: 800px;
+	background: url(kartinki/b5.jpg);
+	background-size: cover;
+	position: absolute;
+	margin: 500px auto;
+	left: 25%;
+
+
+}
+
+.meta{
+
+	filter: drop-shadow(3px 3px white);
+	font-size: 50px;
+	margin: 20px auto;
+}
+
+.txt{
+	filter: drop-shadow(1px 1px white);
+}
+
+
+
+.b2{
+	color: black;
+	height: 220px;
+	width: 800px;
+	background: url(kartinki/b6.jpg);
+	background-size: cover;
+	position: absolute;
+	margin: 1000px auto;
+	left: 25%;
+
+}
+
+
+
+.b3{
+	color: black;
+	height: 400px;
+	width: 800px;
+	background: url(kartinki/b7.jpg);
+	background-size: cover;
+	position: absolute;
+	margin: 1300px auto;
+	left: 25%;
+
+}
+
+.b4{
+	color: black;
+	height: 400px;
+	width: 1000px;
+	background: url(kartinki/b8.jpg);
+	background-size: cover;
+	position: absolute;
+	margin: 1700px auto;
+	left: 20%;
+
+}
+
+
+
+
+
+
+
+
+
+
